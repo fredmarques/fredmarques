@@ -34,7 +34,10 @@ I combine hands-on development with system architecture and technical leadership
 
 ## 🚀 Impact along the way
 
-I’ve led multidisciplinary teams and contributed to:
+Across my work, I’ve:
 
-- 💸 **30% lower infrastructure costs.**
-- ⏱️ **Shorter feature delivery cycles — from months to under a week.**
+- 🌍 **Shipped new products for a user base of over 6 million.**
+- ⚙️ **Contributed to core services and integrations with external systems.**
+- 🤝 **Led multidisciplinary teams.**
+- 💸 **Contributed to reducing infrastructure costs by 30%.**
+- ⏱️ **Helped shorten feature delivery cycles from months to under a week.**
