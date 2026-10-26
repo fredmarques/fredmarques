@@ -13,6 +13,8 @@ I combine hands-on development with system architecture and technical leadership
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![Codex](https://img.shields.io/badge/Codex-10A37F?style=for-the-badge)
 
 | Area | Tools & practices | What I use them for |
 | --- | --- | --- |
@@ -21,7 +23,7 @@ I combine hands-on development with system architecture and technical leadership
 | 🔗 Web3 | **Solidity · Smart contracts** | Writing the on-chain logic behind blockchain applications. |
 | 📱 Web & mobile | **APIs · Native integrations** | Connecting web experiences with mobile applications and device capabilities. |
 | 🏗️ Architecture & delivery | **Monorepos · Infrastructure as code · CI/CD** | Organizing shared code, making infrastructure repeatable, and automating checks and delivery. |
-| 🤖 AI & automation | **AI-assisted development · Agent orchestration** | Using AI tools and coordinating agents to support software development. |
+| 🤖 AI & automation | **Claude · Codex · Agent orchestration** | Using AI assistants and coordinating agents to support coding, debugging, refactoring, and code review. |
 
 ## 🧭 How I approach engineering
 
